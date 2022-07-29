@@ -18,4 +18,5 @@
 | 14 | 22.07.27 | 1018 | 체스판 다시 칠하기 | brute force | C |
 | 15 | 22.07.27 | 1085 | 직사각형에서 탈출 | math | C |
 | 16 | 22.07.28 | 1181 | 단어 정렬 | char array, sorting, quick indexing | C |
+| 15 | 22.07.29 | 1259 | 팰린드롬수 | recursive, pointer | C |
 | x | 22.02.xx | 11729 | 하노이 탑 이동 순서 | recursion | C++ |
