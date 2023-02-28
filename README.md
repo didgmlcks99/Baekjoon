@@ -21,4 +21,4 @@
 | 17 | 22.07.29 | 1259 | 팰린드롬수 | recursive, pointer | C |
 | 18 | 22.07.29 | 1436 | 영화감독 숌 | brute force | C |
 | 19 | 22.08.04 | 1654 | 랜선 자르기 | binary search, parametric search | C |
-| x | 22.02.xx | 11729 | 하노이 탑 이동 순서 | recursion | C++ |
+| 20 | 23.02.28 | 1874 | 스택수열 |  | C |
