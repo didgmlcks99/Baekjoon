@@ -21,4 +21,6 @@
 | 17 | 22.07.29 | 1259 | 팰린드롬수 | recursive, pointer | C |
 | 18 | 22.07.29 | 1436 | 영화감독 숌 | brute force | C |
 | 19 | 22.08.04 | 1654 | 랜선 자르기 | binary search, parametric search | C |
-| 20 | 23.02.28 | 1874 | 스택수열 |  | C |
+| 20 | 23.04.22 | 2609 | 최대공약수GCM & 최소공배수LCM | math | C |
+| 21 | 23.0x.xx | 1874 | 스택수열 |  | C |
+| 22 | 23.0x.xx | 2231 | Digit Generator |  | C |
