@@ -22,5 +22,6 @@
 | 18 | 22.07.29 | 1436 | 영화감독 숌 | brute force | C |
 | 19 | 22.08.04 | 1654 | 랜선 자르기 | binary search, parametric search | C |
 | 20 | 23.04.22 | 2609 | 최대공약수GCM & 최소공배수LCM | math | C |
-| 21 | 23.0x.xx | 1874 | 스택수열 |  | C |
-| 22 | 23.0x.xx | 2231 | Digit Generator |  | C |
+| 21 | 23.04.22 | 10989 | 수 정렬하기 3 | sorting, time complexity O(n) | C |
+| xx | 23.0x.xx | 1874 | 스택수열 |  | C |
+| xx | 23.0x.xx | 2231 | Digit Generator |  | C |
