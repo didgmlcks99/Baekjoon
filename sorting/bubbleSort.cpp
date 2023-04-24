@@ -1,3 +1,4 @@
+// O(n*m)
 #include <iostream>
 
 using namespace std;
